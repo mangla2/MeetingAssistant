@@ -24,6 +24,11 @@
   "dependencies": {
     "babel-loader": "^7.1.5",
     "express": "^4.16.4",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-promise": "^0.6.0",
+    "redux-thunk": "^2.3.0",
     "webpack": "^4.20.2",
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.9"
@@ -36,6 +41,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "css-loader": "^1.0.0",
+    "dotenv-webpack": "^1.5.7",
     "eslint": "^5.7.0",
     "eslint-plugin-react": "^7.11.1",
     "husky": "^1.1.2",
